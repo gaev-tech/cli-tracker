@@ -1,4 +1,4 @@
-# apit — api-tracker CLI
+# clite — command line task engine
 
 `clite` — CLI-клиент для AI-first таск-трекера [apitracker.ru](https://apitracker.ru).
 
